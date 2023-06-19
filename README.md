@@ -105,11 +105,13 @@ Below is a list of the most popular Web3 libraries along with a brief descriptio
 - [Solana Rust](https://github.com/solana-labs/solana):
   **Solana Rust** is a Rust library for interacting with the Solana blockchain. It provides a comprehensive API for working with Solana accounts, transactions, and smart contracts.
   
+- [ethcontract-rs](https://github.com/messense/ethcontract-rs):
+  **ethcontract-rs** is a Rust library for interacting with Ethereum smart contracts. It offers a type-safe and ergonomic API for working with Ethereum accounts, contracts, and transactions. 
+  
 - [ethcontract-go](https://github.com/gnosis/ethcontract-go):
   **ethcontract-go** is a Go library for writing, deploying, and testing Ethereum smart contracts. It provides a high-level interface and utilities to simplify smart contract development. 
 
-- [ethcontract-rs](https://github.com/messense/ethcontract-rs):
-  **ethcontract-rs** is a Rust library for interacting with Ethereum smart contracts. It offers a type-safe and ergonomic API for working with Ethereum accounts, contracts, and transactions. 
+
 
 This list represents just a fraction of the many Web3 libraries available. Feel free to explore these libraries and discover more based on your specific needs and requirements.
 
