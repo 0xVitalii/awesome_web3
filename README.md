@@ -10,7 +10,7 @@ Below is a list of the most popular Web3 libraries along with a brief descriptio
   **Web3.js** is the Ethereum JavaScript API that allows developers to interact with Ethereum nodes using JavaScript. It provides a wide range of functionalities for building decentralized applications on the Ethereum blockchain.
 
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts):
-  **OpenZeppelin** is a library for secure smart contract development. It provides a collection of reusable and audited smart contracts, covering various use cases such as token standards, access control, and more.
+  **OpenZeppelin** is a library for secure smart contract development. It provides a collection of reusable and audited smart contracts, covering various use cases such as token standards, access control, and many more.
 
 - [ethers.js](https://github.com/ethers-io/ethers.js/):
   **ethers.js** is a JavaScript library for interacting with Ethereum. It offers a concise and easy-to-use API for working with Ethereum accounts, contracts, and transactions.
