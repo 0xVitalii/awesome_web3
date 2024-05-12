@@ -111,8 +111,6 @@ Below is a list of the most popular Web3 libraries along with a brief descriptio
 - [ethcontract-go](https://github.com/gnosis/ethcontract-go):
   **ethcontract-go** is a Go library for writing, deploying, and testing Ethereum smart contracts. It provides a high-level interface and utilities to simplify smart contract development. 
 
-
-
 This list represents just a fraction of the many Web3 libraries available. Feel free to explore these libraries and discover more based on your specific needs and requirements.
 
 ## Contributing
